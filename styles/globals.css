@@ -66,7 +66,7 @@ width: 100%;
 }
 .logo{
   color: gray;
-  font-size: 22px;
+  font-size: 18px;
 
 }
 .cart-icon{
@@ -121,7 +121,6 @@ width: 100%;
 
 .product-name{
   font-weight: 500;
-  align-self: center;
 }
 .product-price{
   font-weight: 800;
@@ -134,7 +133,7 @@ width: 100%;
   background-color: #dcdcdc;
   border-radius: 15px;
   position: relative;
-  height: 450px;
+  height: 500px;
   line-height: 0.9; 
   width: 100%;
 
@@ -282,7 +281,7 @@ text-align: end;
   width: 600px;
   background-color: white;
   float: right;
-  padding: 10px 10px;
+  padding: 40px 10px;
   position: relative;
   
 }
@@ -338,7 +337,7 @@ text-align: end;
 .product-container{
   margin-top: 15px;
   overflow: auto;
-max-height: 63vh;
+max-height: 70vh;
 padding: 20px 10px;
 }
 .product{
@@ -388,7 +387,7 @@ padding: 20px 10px;
   bottom: 12px;
   right: 5px;
 width: 100%;
-padding: 10px 65px;
+padding: 30px 65px;
 
 }
 
@@ -624,20 +623,20 @@ margin-top: 160px;
     height: 560px;
   }
   .hero-banner-image{
-    width: 60%;
-    height: 50%;
-    top: 30%;
-    right: -9%;
+    width: 57%;
+    height: 42%;
+    top: 33%;
+    right: -6%;
   }
   .footer-banner-container{
-    height: 560px;
-    margin-top: 80px;
+    height: 610px;
+    margin-top: 50px;
   }
   .footer-banner-image{
-    width: 77%;
-    left: 30%;
+    width: 55%;
+    left: 41%;
     top: 6%;
-    height: 56%
+    /* height: 56% */
   }
   .banner-desc .left h3{
     font-weight: 900;
