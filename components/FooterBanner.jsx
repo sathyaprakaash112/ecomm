@@ -32,7 +32,7 @@ const FooterBanner = ({
           <h3>{midText}</h3>
           <p>{desc}</p>
           <Link href={`/product/${product}`}>
-            <button type="button">{buttonText}</button>
+            <button type="button">Shop Now!</button>
           </Link>
         </div>
         <img src={urlFor(image)} className="footer-banner-image" />
